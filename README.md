@@ -7,9 +7,9 @@
 # CONTACT
 > Email : <minseea5191@gmail.com>
 > 
-> Blog : [Blog](https://just-process.tistory.com/, "MYBolg")
+> Blog : [MyBlog](https://just-process.tistory.com/, "MYBolg")
 > 
-> Github : [Blog](https://github.com/minseoya, "Github!1")
+> Github : [Github](https://github.com/minseoya, "Github!1")
 
 
 
