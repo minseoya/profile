@@ -2,7 +2,6 @@
 
 
 
-# 김민서
 
 # CONTACT
 > Email : <minseea5191@gmail.com>
