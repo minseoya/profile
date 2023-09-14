@@ -19,8 +19,8 @@ REST/ AWS/ PM2/ Git/ Github/ Postman/ Notion
 기술 스택:      
 JavaScript/ Node.js v16.15/ Express.js 4.18/ Jest 29.5/ JWT 9.0/ Bcrypt 5.1/ Dbmate/ MySql 5.7/       
 Nodemon 2.0/ REST/ Prittier/ AWS/ Docker/ Git/ Github/ Trello/ Postman/ Notion    <br><br>
-[프로젝트 Repository](https://github.com/walwald/44-2nd-Dream-backend)<br>
-[회고록](https://walwaldev.tistory.com/57)<br>
+[프로젝트 Repository](https://github.com/minseoya/Dream-backend)<br>
+[회고록](https://just-process.tistory.com/45)<br>
 
 ### 3. unic5n
 > 가구이커머스를 모델링한 가구 구매 플랫폼 웹사이트 제작 프로젝트 `Team Project` <br><br>
@@ -29,8 +29,8 @@ Nodemon 2.0/ REST/ Prittier/ AWS/ Docker/ Git/ Github/ Trello/ Postman/ Notion  
 기술 스택:      
 JavaScript/ Node.js v16.15/ Express.js 4.18/ JWT 9.0/ Bcrypt 5.1/ Dbmate/ MySql 5.7/       
 Nodemon 2.0/ REST/ Prittier/ AWS/ Docker/ Git/ Github/ Trello/ Postman/ Notion    <br><br>
-[프로젝트 Repository](https://github.com/walwald/44-1st-four-branch-backend)<br>
-[회고록](https://walwaldev.tistory.com/49)
+[프로젝트 Repository](https://github.com/minseoya/unicon-backend)<br>
+[회고록](https://just-process.tistory.com/42)
 
 
 ***
