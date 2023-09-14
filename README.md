@@ -16,28 +16,10 @@
 > 
 > Github : [Github](https://github.com/minseoya "Github!1")
 
+---
 
 
-
-
-
-# SKILLS
-JavaScript | Nodejs | MySql 
-<div>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-</div>
- 
- # TOOL
- <div>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
-</div>
-
-## 📍 Projects
+# 📍 Projects
 ### 1. Woori-Dongne
 > 우리동네는 동네 주민간의 원활한 소통을 지향하는 SNS입니다.
 해당 SNS를 통해 나와 가까운 주민과의 유대적 친밀감을 형성할 수 있고,
