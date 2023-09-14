@@ -22,12 +22,11 @@
 
 
 # SKILLS
-JavaScript | Nodejs | MySql | Prettier
+JavaScript | Nodejs | MySql 
 <div>
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" />
 </div>
  
  # TOOL
